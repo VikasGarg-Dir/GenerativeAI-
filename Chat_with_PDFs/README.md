@@ -29,6 +29,8 @@ Chat with PDF's is a Python application that helps you interact with pdf documen
 To run the application :
 
 1: Download all the required dependencies and add the OpenAI API Key to the .env file
+
 2: Run the 'ingest.py' to ingest the PDF's and create vectorembeddings from them.
+
 3: Run the 'query_db.py' file to run the code.
 
