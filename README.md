@@ -28,8 +28,10 @@ Whether you're experimenting with LLMs or building full-stack AI-powered apps, t
 The repository is organized into folders based on use-cases and tools:
 
 GenerativeAI-/
+
 │
 ├── Chat_With_PDFs/
+├── rasa-chatbot/
 
 
 ## 🧪 How to Use
