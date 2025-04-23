@@ -1,0 +1,22 @@
+version: "3.1"
+
+stories:
+- story: happy path
+  steps:
+    - intent: greet
+    - action: question_form
+
+- story: tell weather
+  steps:
+    - user: "what is the weather today"
+    - action: utter_weather
+
+- story: ask question
+  steps:
+    - intent: question
+    - action: utter_ask_age
+
+- story: sad path 1
+  steps:
+    - intent: greet
+    - action: question_form
