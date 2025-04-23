@@ -31,8 +31,10 @@ GenerativeAI-/
 
 │
 ├── Chat_With_PDFs/
+
 ├── rasa-chatbot/
 
+├── LLM_From_Scratch/
 
 ## 🧪 How to Use
 
