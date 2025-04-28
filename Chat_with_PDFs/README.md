@@ -1,4 +1,4 @@
-# Chat with PDF's
+# Chat with PDFs
 
 ## Introduction
 
