@@ -139,12 +139,3 @@ Use the generated URL in your frontend or to share the chatbot API externally.
 * 📊 Streamlit+Plotly visual summaries for document insights
 
 ---
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> 🌟 **Star this repo** if you find it helpful.
-> ✉️ [Let’s connect on LinkedIn](https://www.linkedin.com/in/anishnsut) for collaborations!
