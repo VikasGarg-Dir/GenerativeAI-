@@ -1,8 +1,0 @@
-venv/
-chroma/
-__pycache__/
-*.pyc
-document_log.json
-*.bin
-*.json
-*.sqlite3
