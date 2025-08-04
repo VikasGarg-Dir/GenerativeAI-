@@ -1,0 +1,5 @@
+pymongo
+sentence-transformers 
+faiss-cpu
+streamlit
+requests
