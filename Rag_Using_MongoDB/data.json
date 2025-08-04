@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Python Basics",
+    "content": "Python is a high-level, interpreted programming language known for its readability and simplicity."
+  },
+  {
+    "title": "Advanced Python",
+    "content": "Advanced Python includes topics such as decorators, generators, context managers, and metaclasses."
+  },
+  {
+    "title": "MongoDB Overview",
+    "content": "MongoDB is a NoSQL document-oriented database that stores data in JSON-like documents."
+  },
+  {
+    "title": "MongoDB Indexing",
+    "content": "Indexes support the efficient execution of queries in MongoDB. Without indexes, MongoDB must scan every document."
+  },
+  {
+    "title": "What is FAISS?",
+    "content": "FAISS is a library developed by Facebook AI to perform efficient similarity search and clustering of dense vectors."
+  },
+  {
+    "title": "FAISS Index Types",
+    "content": "FAISS supports various index types like Flat, IVF, HNSW, and PQ for different speed-accuracy tradeoffs."
+  },
+  {
+    "title": "What is RAG?",
+    "content": "Retrieval-Augmented Generation is an NLP framework that retrieves relevant documents to help generate more accurate answers."
+  },
+  {
+    "title": "LLM Basics",
+    "content": "Large Language Models (LLMs) are deep learning models trained on massive text datasets to generate human-like text."
+  },
+  {
+    "title": "OpenAI GPT Models",
+    "content": "GPT models by OpenAI are autoregressive transformers that generate coherent and contextually relevant text."
+  },
+  {
+    "title": "Transformers in NLP",
+    "content": "Transformers use attention mechanisms to process sequences, making them ideal for NLP tasks."
+  },
+  {
+    "title": "Hugging Face",
+    "content": "Hugging Face is a platform and library for sharing and using pre-trained models in NLP and other ML domains."
+  },
+  {
+    "title": "LangChain Framework",
+    "content": "LangChain is a framework to build applications powered by LLMs with composable components like chains and agents."
+  },
+  {
+    "title": "Vector Databases",
+    "content": "Vector databases store embeddings and enable similarity search, often used in AI applications like RAG and search."
+  },
+  {
+    "title": "Pinecone",
+    "content": "Pinecone is a managed vector database for building scalable similarity search applications."
+  },
+  {
+    "title": "ChromaDB",
+    "content": "Chroma is an open-source vector database used to store and retrieve document embeddings efficiently."
+  },
+  {
+    "title": "NLP Tokenization",
+    "content": "Tokenization is the process of converting text into smaller units like words or subwords for NLP processing."
+  },
+  {
+    "title": "Text Embeddings",
+    "content": "Embeddings are dense vector representations of text used for comparison and similarity search."
+  },
+  {
+    "title": "Retrieval Techniques",
+    "content": "Common retrieval techniques include keyword search, TF-IDF, BM25, and vector similarity search."
+  },
+  {
+    "title": "Prompt Engineering",
+    "content": "Prompt engineering is the art of crafting inputs to maximize the performance and relevance of LLM responses."
+  },
+  {
+    "title": "Chain of Thought Prompting",
+    "content": "Chain of Thought prompting encourages step-by-step reasoning in LLMs, improving performance on complex tasks."
+  }
+]
