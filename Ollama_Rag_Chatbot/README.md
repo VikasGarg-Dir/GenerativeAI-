@@ -50,8 +50,8 @@ Rag_Chatbot_using_Ollama/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/anish3565/Rag_Chatbot_using_Ollama.git
-cd Rag_Chatbot_using_Ollama
+git clone https://github.com/VikasGarg-Dir/GenerativeAI_LLM.git
+cd Ollama_Rag_Chatbot
 ```
 
 2. **Create a virtual environment**
